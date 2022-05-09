@@ -12,10 +12,13 @@
 @import url(../blocks/icon-plus/icon-plus.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/blog-block/blog-block.css);
-@import url(../blocks/blog-item/blog-item.css);
-@import url(../blocks/blog-item/__title/blog-item__title.css);
-@import url(../blocks/blog-item/__link/blog-item__link.css);
-@import url(../blocks/blog-item/__image/blog-item__image.css);
+@import url(../blocks/blog-block/__title/blog-block__title.css);
+@import url(../blocks/blog-block/__link/blog-block__link.css);
+@import url(../blocks/blog/blog.css);
+@import url(../blocks/blog/__item/blog__item.css);
+@import url(../blocks/blog/__image/blog__image.css);
+@import url(../blocks/blog/__author/blog__author.css);
+@import url(../blocks/blog/__quote/blog__quote.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__title-span/cards__title-span.css);
 @import url(../blocks/link/link.css);

@@ -1,0 +1,7 @@
+.blog {
+  max-width: 100%;
+  margin: 0;
+  padding: 36px 0 32px 100px;
+  position: sticky;
+  list-style: none;
+}
