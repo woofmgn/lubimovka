@@ -1,0 +1,9 @@
+.places {
+  list-style: none;
+  padding: 0;
+  margin: 74px auto 105px 60px;
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  grid-template-rows: auto;
+  column-gap: 61px;
+}
