@@ -35,3 +35,12 @@
 @import url(../blocks/grid-cards/__author/grid-cards__author.css);
 @import url(../blocks/grid-cards/__text/grid-cards__text.css);
 @import url(../blocks/grid-cards/__link/grid-cards__link.css);
+@import url(../blocks/info/info.css);
+@import url(../blocks/articles/articles.css);
+@import url(../blocks/articles/__preview/articles__preview.css);
+@import url(../blocks/articles/__preview/_active/articles__preview_active.css);
+@import url(../blocks/articles/__content/articles__content.css);
+@import url(../blocks/articles/__title/articles__title.css);
+@import url(../blocks/articles/__paragraph/articles__paragraph.css);
+@import url(../blocks/articles/__link/articles__link.css);
+@import url(../blocks/articles/__image/articles__image.css);
