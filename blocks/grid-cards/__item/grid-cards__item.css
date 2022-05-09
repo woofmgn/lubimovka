@@ -1,4 +1,20 @@
 .grid-cards__item {
+  /* padding-top: 70px; */
   max-width: 419px;
   display: flex;
+
 }
+
+.grid-cards__item:nth-child(odd) {
+  padding-right: 62px;
+  border-right: 1px solid #242424;
+}
+/* правый бордер и паддинг каждой не четной карточке */
+.grid-cards__item:nth-child(-n+2) {
+  padding-top: 0;
+}
+
+.grid-cards__item:nth-child(even) {
+  padding-left: 62px;
+}
+/* левый паддинг каждой четной карточке */
