@@ -56,3 +56,10 @@
 @import url(../blocks/video/__link/video__link.css);
 @import url(../blocks/video/__subtitle/video__subtitle.css);
 @import url(../blocks/video/__image/video__image.css);
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners-grid/partners-grid.css);
+@import url(../blocks/partners-grid/__item/partners-grid__item.css);
+@import url(../blocks/partners-grid/__link/partners-grid__link.css);
+@import url(../blocks/partners-grid/__logo/partners-grid__logo.css);
+

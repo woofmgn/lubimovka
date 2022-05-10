@@ -1,0 +1,6 @@
+.partners-grid__item {
+  margin: 33px auto 21px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,7 @@
+.partners-grid__logo {
+  max-width: 182px;
+  object-fit: contain;
+  object-position: center;
+  margin: auto;
+  align-self: center;
+}
