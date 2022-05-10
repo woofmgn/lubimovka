@@ -1,0 +1,10 @@
+.video__title {
+  margin: 62px auto 22px 149px;
+  max-width: 866px;
+  font-family: 'Neue Machina';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: .94;
+  letter-spacing: -0.01em;
+  color: #242424;
+}
