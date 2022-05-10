@@ -1,4 +1,12 @@
 .places__card {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 100%;
   border-left: 1px solid #242424;
   border-bottom: 1px solid #242424;
+  background-image: url(../../../images/places-iconmap.svg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: 35px 14px;
 }

@@ -1,5 +1,5 @@
 .places__link {
-  margin: 0 auto 18px 30px; /* тут косяк */
+  margin: auto auto 18px 30px;
   text-decoration: none;
   font-family: 'Formular';
   font-style: normal;
@@ -7,4 +7,6 @@
   font-size: 16px;
   line-height: 1.5;
   color: #242424;
+  align-self: flex-end;
+  padding-top: 17px;
 }
