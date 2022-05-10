@@ -1,5 +1,5 @@
 .places__link {
-  margin: 0 auto 18px 30px;
+  margin: 0 auto 18px 30px; /* тут косяк */
   text-decoration: none;
   font-family: 'Formular';
   font-style: normal;
